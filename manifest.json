@@ -1,0 +1,10 @@
+{
+    "display_name": "缓存工具（前缀对比 + 命中率 + 缓存标记）",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "",
+    "version": "0.4.0",
+    "homePage": ""
+}
